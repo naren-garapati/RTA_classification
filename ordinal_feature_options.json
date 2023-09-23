@@ -1,0 +1,55 @@
+{
+    "Day_of_week": [
+        "Monday",
+        "Sunday",
+        "Friday",
+        "Wednesday",
+        "Saturday",
+        "Thursday",
+        "Tuesday"
+    ],
+    "Age_band_of_driver": [
+        "18-30",
+        "31-50",
+        "Under 18",
+        "Over 51",
+        "Unknown"
+    ],
+    "Educational_level": [
+        "Above high school",
+        "Junior high school",
+        "Elementary school",
+        "High school",
+        "Unknown",
+        "Illiterate",
+        "Writing & reading"
+    ],
+    "Driving_experience": [
+        "1-2yr",
+        "Above 10yr",
+        "5-10yr",
+        "2-5yr",
+        "No Licence",
+        "Below 1yr",
+        "unknown"
+    ],
+    "Light_conditions": [
+        "Daylight",
+        "Darkness - lights lit",
+        "Darkness - no lighting",
+        "Darkness - lights unlit"
+    ],
+    "Age_band_of_casualty": [
+        "na",
+        "31-50",
+        "18-30",
+        "Under 18",
+        "Over 51",
+        "5"
+    ],
+    "Casualty_severity": [
+        "na", 
+        "3", 
+        "2", 
+        "1"]
+}
